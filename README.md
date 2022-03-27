@@ -1,4 +1,4 @@
-# AthenaSystem
+# AthenaSystem - TCC Engenharia de Controle e Automação - 2021
  O presente projeto visa demonstrar o desenvolvimento de um software para controle de estoque, tanto na questão de dados dos produtos quanto na dispersão física desse material. Com o objetivo de otimizar o tempo e aumentar a confiabilidade de um estoque, que seja capaz de organizar, adicionar e retirar materiais de forma semi autônoma, sem necessitar de interação humana diretamente nos produtos físicos. A solução se divide em três partes substanciais: a HMI (Human Machine Interface), criada no framework Qt Creator, ferramenta que possibilita a criação e edição dos elementos gráficos de forma prática; o script principal, desenvolvido na linguagem Python 3, de alto nível, interpretada e de tipagem dinâmica; e também o banco de dados MySQL, facilmente escalável, que possibilita a conexão pela rede intranet. A solução permite reduzir a falha humana na movimentação do material, implicando tanto na segurança para os colaboradores da manipulação dos itens quanto no controle e confiabilidade de dados dos materiais dispersos no estoque.
  
  # Link do vídeo de demonstração
